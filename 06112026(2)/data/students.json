@@ -1,0 +1,68 @@
+[
+    {
+        "student_id": 1,
+        "name": "Иванов Иван",
+        "age": 16,
+        "group": "ИС-25",
+        "grades": [
+            5,
+            4,
+            5
+        ],
+        "email": "ivanov@example.com",
+        "student_type": " обычный"
+    },
+    {
+        "student_id": 2,
+        "name": "Петрова Анна",
+        "age": 19,
+        "group": "ИС-21",
+        "grades": [
+            5,
+            5,
+            5
+        ],
+        "email": "petrova@example.com",
+        "student_type": "excellent",
+        "scholarship": 2500.0
+    },
+    {
+        "student_id": 3,
+        "name": "Сидоров Максим",
+        "age": 18,
+        "group": "ИС-22",
+        "grades": [
+            3,
+            4,
+            3
+        ],
+        "email": "sidorov@example.com",
+        "student_type": " обычный"
+    },
+    {
+        "student_id": 4,
+        "name": "Кузнецова Мария",
+        "age": 20,
+        "group": "ИС-22",
+        "grades": [
+            4,
+            5,
+            4
+        ],
+        "email": "kuznetsova@example.com",
+        "student_type": " обычный"
+    },
+    {
+        "student_id": 5,
+        "name": "Смирнов Артём",
+        "age": 19,
+        "group": "ИС-23",
+        "grades": [
+            2,
+            3,
+            3
+        ],
+        "email": "smirnov@example.com",
+        "student_type": " обычный"
+    }
+]
